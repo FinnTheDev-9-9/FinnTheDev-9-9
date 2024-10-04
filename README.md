@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FinnTheDev-9-9
 - 👀 I’m interested in stuff I guess
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently learning Godot because my brain too mush for Unreal right now
 - 💞️ I’m looking to collaborate on stuff I guess
 - 📫 How to reach me... you don't
 - 😄 Pronouns: he/him
