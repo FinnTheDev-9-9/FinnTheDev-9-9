@@ -5,6 +5,8 @@
 - 📫 How to reach me... you don't
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a human
+
+  
   [![Stats](https://github-readme-stats.vercel.app/api?username=finnthedev-9-9)]
 
 <!---
